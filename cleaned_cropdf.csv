@@ -1,0 +1,18 @@
+,Crop_ID,Name,is_Seasonal,Season_start,Season_end,Harvest_weight_per_land_area,Harvest_time,Productivity
+0,6,Eggplant,0,,,20-25 tons/ha,60-90 days,76
+1,11,Tomato,1,may,october,10-15 tons/ha,10-12 weeks,79
+2,15,Coconut,0,,,0.7-1.3 tons/ha,5-7 years,79
+3,22,Banana,0,0,0,1666 bunches in first year,12-13 months,76
+4,27,Mango,1,1,1,25-80 kg/tree,5-7 years,79
+5,29,Orange,1,1,1,30 tons/ha,5 years,73
+6,30,Papaya,0,0,0,60-80 tons/ha,8-10 weeks after flowering,76
+7,33,Tamarind,?,?,?,150-200 kg/tree,1 year?,73
+8,34,Watermelon,0,0,0,15-20 tons/ha,70-120 days,76
+9,37,Cassava,0,,,20-30 tons/ha,7-12 months,73
+10,38,Ginger,1,Planting time: September,,20-30 tons/ha,5-10 months,76
+11,39,Greater yam/Ubi,1,oct-dec or jan-march,,15-20 tons/ha,3-6 months,79
+12,40,Lady's finger/Okra,0,,,15 tons/ha,60-90 days,80
+13,41,Lettuce,1,march to oct,,8-10 tons/ha,7-15 weeks,73
+14,45,Radish,0,,,8-15 tons/ha,30-40 days,73
+15,49,Potato,0,,,20-25 tons/ha,95-120 days,73
+16,50,Avocado,1,march,july,10-15 tons/ha,4-7 years,76
